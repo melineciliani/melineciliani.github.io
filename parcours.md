@@ -1,25 +1,21 @@
 ---
 layout: page
 title: Mon parcours
-description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
+description:
 menubar: menu_bar
-download_cv: assets/docs/Template_CV.pdf
+download_cv: assets/docs/CV Ciliani Meline
 ---
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2024 – 2029`
+**Unilasalle Amiens**
 
-Elève ingénieur en [préciser la spécialité]
+Elève en classe préparatoire ingénieur secteur numérique et energie
 * Cours : préciser les cours en phase avec le poste visé
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
-
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+`2024`
+Bac NSI-Mathématiques, mention éventuelle, Lieu
 
 ## Expériences
 
@@ -46,11 +42,12 @@ _Intitulé du poste dans une équipe de XX membres_
 ## Compétences
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+* LV1 anglais
+* LV2 espagnol
+* LV3 chinois
 
 Informatique
-* Logiciels maitrisés
+* Language python et C
 * Logiciels maitrisés
 
 Autres
