@@ -15,7 +15,7 @@ Elève en classe préparatoire ingénieur secteur numérique et energie
 * Cours : préciser les cours en phase avec le poste visé
 
 `2024`
-Bac NSI-Mathématiques, mention éventuelle, Lieu
+Bac NSI-Mathématiques,mention bien,Lycée Marie Curie
 
 ## Expériences
 
@@ -48,7 +48,7 @@ Langues
 
 Informatique
 * Language python et C
-* Logiciels maitrisés
+* Logiciels maitrisés 
 
 Autres
 * Autres diplômes ou permis spéciaux
